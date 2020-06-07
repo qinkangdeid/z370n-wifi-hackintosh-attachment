@@ -1,0 +1,1 @@
+Efiflash Z370NW.F12
